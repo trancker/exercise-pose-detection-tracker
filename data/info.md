@@ -1,0 +1,1 @@
+This Folder is created because here is where all the extracted videos will be stored.
